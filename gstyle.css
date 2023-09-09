@@ -1,0 +1,60 @@
+.images{
+    width: 351;
+    text-align: center;
+    height: 113;
+}
+
+.box1{
+    text-align: center;
+    background-color: F0F0F0;
+    width: 1367px;
+    margin: auto;
+    height: 60px;
+    background-color: #EEEEEE;
+}
+
+/* .container{
+    width: 100%;
+}   */
+
+.kutu{
+    width: 1367px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.kutu1{
+    float: left;
+    width: 37%;
+    height: 79px;
+    margin: 1px 1px;
+    background-color: #7EE5DA;
+    text-align: center;
+    justify-content: center; /* Yatayda ortala */
+    align-items: center; /* Dikeyde ortala */
+    
+}
+
+.kutu2{
+    float: left;
+    width: 20%;
+    height: 79px;
+    margin: 1px 1px;
+    background-color: #70CCC2;
+    text-align: center;
+}
+
+.kutu3{
+    float: left;
+    width: 42.6%;
+    height: 79px;
+    margin: 1px auto;
+    background-color: #62B3AA;
+    text-align: center;
+}
+
+.alt{
+    width: 200px;
+    margin: auto;
+}
