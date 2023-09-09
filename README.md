@@ -1,4 +1,4 @@
-### Hi there 👋
+
 Google was how it looked in '98.
 <!--
 **ufuk77/ufuk77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
